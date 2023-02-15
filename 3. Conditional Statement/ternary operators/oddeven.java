@@ -1,5 +1,5 @@
 import java.util.*;
-public class ternary{
+public class oddeven{
     public static void main(String[] args) {
         Scanner sy = new Scanner(System.in);
         System.out.println("Enter the number");
