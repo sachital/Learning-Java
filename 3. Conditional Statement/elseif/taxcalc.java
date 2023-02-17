@@ -1,4 +1,3 @@
-import java.lang.annotation.IncompleteAnnotationException;
 import java.util.*;;
 public class taxcalc {
     public static void main(String[] args) {

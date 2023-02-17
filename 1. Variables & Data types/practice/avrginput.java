@@ -1,7 +1,6 @@
 package practice;
 import java.util.*;
 
-import java.util.*;
 //average of 3 user input nnumbers
 public class avrginput {
     public static void main(String[] args) {

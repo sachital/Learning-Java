@@ -1,8 +1,7 @@
-import java.util.*;
 
 public class Assignment {
     public static void main(String[] args) {
-        Scanner sy = new Scanner(System.in);
+
         int a;
         int b=5;
         a=b;

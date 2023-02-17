@@ -1,6 +1,5 @@
 import java.util.*;
 
-import javax.swing.plaf.synth.SynthDesktopIconUI;
 public class elseif{
     public static void main(String[] args) {
         Scanner sy = new Scanner(System.in);

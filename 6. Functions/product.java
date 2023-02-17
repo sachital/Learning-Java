@@ -1,6 +1,4 @@
-import java.security.Policy;
 import java.util.*;
-
 public class product {
 
     public static int multiply(int a, int b){

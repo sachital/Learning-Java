@@ -25,7 +25,7 @@ public class swap {
 //CALL BY VALUE: JAVA always call by value: makes a copy of original variable to the function
 // Whereas in languages like C++ we use the original values  i.e called as CALL BY REFERENCE.
 
-    public static void swap(int a, int b){
+    public static void swp(int a, int b){
         // swap
         int c = a;
         a=b;
@@ -39,7 +39,7 @@ public class swap {
         System.out.println("Enter b");
         int b= sy.nextInt();
 
-        swap(a, b);// call by value; 
+        swp(a, b);// call by value; 
         /*calls  a copy of original value from the function and into call stack
         until the function runs after returning to main function the original value remains
         */
