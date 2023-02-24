@@ -5,8 +5,8 @@ public class rotatedhhalfoyramid {
     public static void rotatedhpy(int n){
 
         for( int i=1; i<=n;i++){
-
-            for(int j=1; j<=(n-i);j++){
+            int m=n;
+            for(int j=1; j<=(m-i);j++){
                 System.out.print(" ");
             }
 
@@ -20,7 +20,7 @@ public class rotatedhhalfoyramid {
     
     public static void main(String[] args) {
         Scanner sy = new Scanner(System.in);
-        System.out.println("Enter the rows");
+        System.out.println("Enter the lines");
         int x = sy.nextInt();
 
         rotatedhpy(x);
