@@ -18,10 +18,6 @@ public class rhombus {
             for(int j=1;j<=n;j++){
                 System.out.print("*");
             }
-
-            for(int j=1;j<=(n-1);j++){
-                System.out.print(" ");
-            }
             System.out.println();
         }
     }
