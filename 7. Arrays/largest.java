@@ -1,5 +1,3 @@
-import java.util.*;
-
 public class largest {
     public static void main(String[] args) {
         int number[]= {1,3,6,4,2,5};
